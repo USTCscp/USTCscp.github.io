@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astronomy, University of Science and Technology of China, Sep. 2020 – July 2024 (Expected)
+  * GPA: **4.05/4.30**
+  * Rank: 2/27
+  * Jici Yan Talent Students Program in Physics 
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======

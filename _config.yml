@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "About me - Canpo Su"
+title                    : "Canpo Su"
 title_separator          : "-"
 name                     : &name "Canpo Su"
 description              : &description "personal description"

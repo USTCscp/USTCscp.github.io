@@ -1,6 +1,6 @@
 ---
 permalink: /grade/
-#title: "Courses and Grades"
+title: "Courses and Grades"
 author_profile: true
 redirect_from: 
   - /md/

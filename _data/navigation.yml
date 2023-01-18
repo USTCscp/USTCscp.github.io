@@ -3,24 +3,29 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Research"
+    url: /markdown/
+ 
+  - title: "Grade"
+    url: /grade/
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+    #url: /portfolio/
         
  # - title: "Blog Posts"
    # url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
     
-  - title: "Grade"
-    url: /grade/
+
 

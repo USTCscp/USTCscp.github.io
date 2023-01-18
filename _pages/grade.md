@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-#title: "Markdown"
+permalink: /grade/
+#title: "Grade"
 author_profile: true
 redirect_from: 
   - /md/

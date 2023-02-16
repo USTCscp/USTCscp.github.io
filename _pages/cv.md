@@ -56,7 +56,7 @@ Honors and Awards
 ======
 * National Scholarship（top 5%)
   * 09/2021
-* CASC Schilarship(top 10%)
+* CASC Scholarship(top 10%)
   *  09/2022
 * Special Reward Scholarship for students in Jici Yan Talent Program in Physics(top 10%)
   * 09/2021 and 09/2022 

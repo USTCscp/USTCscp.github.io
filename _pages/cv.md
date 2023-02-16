@@ -43,6 +43,7 @@ Research experience
 Skills
 ======
 * Programming languages:**Python**(my usual language), C
+* Typesetting: LaTeX
 
 
 Teaching experience
